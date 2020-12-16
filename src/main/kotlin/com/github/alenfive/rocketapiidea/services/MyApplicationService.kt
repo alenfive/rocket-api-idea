@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.alenfive.rocketapiidea.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.alenfive.rocketapiidea.MyBundle
 
 class MyApplicationService {
 
